@@ -1,4 +1,4 @@
-# realtime_chat_app
+# Realtime_Chat_App
 
 1. It is basically a realtime chat application where multiple users across different devices can join and chat with each other. </br>
 2. Bidirectional connection between server and client has been established by Socket.IO. </br>
